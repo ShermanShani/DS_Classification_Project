@@ -2,6 +2,7 @@
 <html>
 <body>
     <h1>Practical Data Science Classification project - Classification with an Academic Success Dataset</h1>
+    <p>Your Goal: The goal of this competition is to predict academic risk of students in higher education.</p>
     <h2>Resources:</h2>
     <ol>
       <li><a href="https://www.kaggle.com/competitions/playground-series-s4e6/discussion/487170">Classification with an Academic Success Dataset
