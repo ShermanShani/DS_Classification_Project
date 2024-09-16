@@ -13,5 +13,10 @@
       Classification with an Academic Success Dataset.pptx
       </a>
     </h2>
+    <h2>
+      <a href="https://drive.google.com/file/d/1E5vYgkHl0wLUZP-O956Q2t9TFhvkW56y/view?usp=sharing">
+      Google Colab notebook link for easier view if needed
+      </a>
+    </h2>
 </body>
 </html>
